@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* 시계 꾸미기 */
+h2 {
+  font-size: 5rem;
+}
+
+.hidden {
+  display: none;
+}
+
+span {
+  display: block;
+}
+
+li {
+  display: inline;
+}
